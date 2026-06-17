@@ -11,6 +11,7 @@ SDN (Software-Defined Networking): a Ryu controller centrally monitors all switc
 Machine Learning: four models are trained to predict and classify traffic load
 
 The Ryu controller collects port statistics every 5 seconds, logs them to a CSV file, and a machine learning pipeline trains on this data to classify network state in real time.
+
 <img width="630" height="330" alt="topology" src="https://github.com/user-attachments/assets/1b00751a-50ac-4b5e-a552-5e3a0ea75c02" />
 
 2 hosts (h1, h2) generate traffic
