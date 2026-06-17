@@ -21,7 +21,8 @@ The Ryu controller collects port statistics every 5 seconds, logs them to a CSV 
 ## System Architecture
 
 ```
-<img width="630" height="330" alt="topology" src="https://github.com/user-attachments/assets/c8cace21-6627-4f48-b6f0-44eef47699e5" />
+<img width="630" height="330" alt="topology" src="https://github.com/user-attachments/assets/6dda2e9f-cf43-443e-912b-efb4c2d28c80" />
+
 
 ```
 
