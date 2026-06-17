@@ -20,11 +20,7 @@ The Ryu controller collects port statistics every 5 seconds, logs them to a CSV 
 
 ## System Architecture
 
-```
-<img width="630" height="330" alt="topology" src="https://github.com/user-attachments/assets/6dda2e9f-cf43-443e-912b-efb4c2d28c80" />
-
-
-```
+<img width="630" height="330" alt="topology" src="https://github.com/user-attachments/assets/0eb4fbe1-a75d-436f-9717-3f17403ace7b" />
 
 - **2 hosts** (h1, h2) generate traffic
 - **2 OpenFlow switches** (s1, s2) forward packets
