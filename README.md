@@ -55,7 +55,7 @@ pip3 install pandas numpy scikit-learn matplotlib
 | `generate_traffic.py` | Generates ICMP and TCP traffic between hosts |
 | `train_svm_model.py` | Trains and compares 4 ML models |
 | `real_time_predict.py` | Live traffic prediction and classification |
-| `analyze_traffic.py` | Plots traffic graphs and basic analysis |
+| `traffic_data.csv` | Pre-collected dataset (used for training and prediction) |
 | `model_comparison_results.csv` | Saved model comparison results |
 
 ---
